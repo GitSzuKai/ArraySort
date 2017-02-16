@@ -18,7 +18,6 @@ int global_array[50000];
 
 int main() {
 	int i, j, k;
-	int i = 0;
 	double start, end; /* CHANGED: from clock_t to double */
 
 	/*
